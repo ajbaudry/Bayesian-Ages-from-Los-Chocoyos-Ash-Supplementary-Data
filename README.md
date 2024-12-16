@@ -1,5 +1,11 @@
 ## Supplementary materials for the response to comments on thearticle ["A Bayesian age from dispersed plagioclase and zircon dates in the Los Chocoyos ash, Central America"](https://doi.org/10.1016/j.epsl.2024.118826) 
 
+LosChocoyos.ipynb           % Can be run as a Binder notebook as mentioned below.
+
+Manifest.toml               % Source file for running julia locally as mentioned below.
+
+Project.toml                % Source file for running julia locally as mentioned below.
+
 Supplemental_Data zip file contains:
 
     - USGS_Model_Age                       % Contains the USGS spreadsheet that was used for the U-Th data recalculation for data from Cisneros de Leon et al. (2021).
@@ -21,12 +27,6 @@ Los_Chocoyos_Bayesian folder contains:
     - Raw_Cisneros_Samples.jl     % Produces Bayesian ages for each of the "raw" on non-recalculated U-Th data from Cisneros de Leon et al. (2021).
 
     - Recalc_Cisneros_Samples.jl  % Produces Bayesian ages for each of the U-Th samples recalculated from Cisneros de Leon et al. (2021).
-
-    - LosChocoyos.ipynb           % Can be run as a Binder notebook as mentioned below.
-
-    - Manifest.toml               % Source file for running julia locally as mentioned below.
-
-    - Project.toml                % Source file for running julia locally as mentioned below.
 
 Younger_Toba_Tuff_Bayesian Folder:
 
